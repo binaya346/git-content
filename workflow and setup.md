@@ -6,7 +6,7 @@
     `git config --global user.name "Your Name"`
     `git config --global user.email "your@email.com"`
     `git config --list`  # Verify settings
-5. Add ssh key into the github access
+5. Add ssh key into the github access. I am adding this line so that updated Pull request hides the comment. 
    1. Go to => profile icon on top right corner => settings => SSH and GPG keys => Add your Public key in SSH Keys section. 
 
 1. Clone the repo: `git clone <url>`
