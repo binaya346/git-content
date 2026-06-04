@@ -1,6 +1,6 @@
 # Chapter 1: What is Version Control & Why Git?
 
-## The Problem: Life Without Version Control
+## The Problem: Life Without Version Control. Changes from branch 1
 
 Imagine you are part of a 3-person team building a web application. Each developer is working on a different page.
 
