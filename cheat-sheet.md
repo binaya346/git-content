@@ -9,7 +9,7 @@ Identify yourself to Git. This only needs to be done once per machine.
 **Check Settings:** `git config --list`
 
 2. Starting a Project
-Initialize Local Repo: git init (Run this inside your project folder)
+Initialize Local Repo: `git init` (Run this inside your project folder)
 
 **Clone Remote Repo:** `git clone <url>` (Downloads an existing project)
 
